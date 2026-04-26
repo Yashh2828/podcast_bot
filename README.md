@@ -229,12 +229,3 @@ See [`sample_output.md`](sample_output.md) for a generated podcast script exampl
 
 ---
 
-## 📜 License
-
-MIT License - Feel free to use and modify!
-
----
-
-## 🤝 Contributing
-
-Pull requests welcome! For major changes, please open an issue first.
