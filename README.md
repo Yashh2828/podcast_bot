@@ -43,7 +43,7 @@ pip install -r requirements.txt
 Create a `.env` file in the project root:
 ```bash
 # Required - Get from https://huggingface.co/settings/tokens
-HUGGINGFACE_API_TOKEN=your_huggingface_token_here
+HUGGINGFACE_API_TOKEN=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
 ```
 
 Or set it in your terminal:
