@@ -1,0 +1,17 @@
+fastapi>=0.100.0
+uvicorn[standard]>=0.24.0
+python-dotenv>=1.0.0
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-huggingface>=0.0.0
+langchain-community>=0.0.0
+faiss-cpu>=1.7.4
+pypdf>=6.0.0
+python-docx>=0.8.11
+docx2txt>=0.8
+pydantic>=2.0.0
+protobuf>=5.28.0
+packaging>=24.0
+sentence-transformers>=2.0.0
+streamlit>=1.30.0
+huggingface-hub>=0.17.0
