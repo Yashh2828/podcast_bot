@@ -191,21 +191,7 @@ Podcast bot HF/
 
 ---
 
-## 🌐 Deployment
 
-### Backend on Render
-1. Push code to GitHub
-2. Create new Web Service on [Render](https://render.com)
-3. Set build command: `pip install -r requirements.txt`
-4. Set start command: `uvicorn backend.app:app --host 0.0.0.0 --port $PORT`
-5. Add environment variable: `HUGGINGFACE_API_TOKEN`
-
-### Frontend on Streamlit Cloud
-1. Go to [share.streamlit.io](https://share.streamlit.io)
-2. Deploy `frontend/app.py`
-3. Add secret: `API_BASE_URL = "https://your-render-url.onrender.com"`
-
----
 
 ## 📄 Sample Output
 
